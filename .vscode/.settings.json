@@ -1,6 +1,7 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
   "[javascript]": {
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
